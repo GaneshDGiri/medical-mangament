@@ -1,0 +1,6 @@
+{
+  "name": "MediCare AI — Smart Hospital Management System",
+  "description": "Comprehensive MERN-style Smart Hospital Management System with RBAC, AI Hospital Assistant, Virtual Consultation, 3D Equipment Explorer, and Interactive Hospital Navigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
